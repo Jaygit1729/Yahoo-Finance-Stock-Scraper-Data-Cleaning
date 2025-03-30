@@ -1,0 +1,16 @@
+2025-03-30 12:51:20,944-INFO-Logging set up successfully for data cleaning
+2025-03-30 12:51:20,989-ERROR-Error in cleaning data: Can only use .str accessor with string values!
+2025-03-30 12:53:23,549-INFO-Logging set up successfully for data cleaning
+2025-03-30 12:53:23,574-ERROR-Error in cleaning data: Can only use .str accessor with string values!
+2025-03-30 12:59:59,786-INFO-Logging set up successfully for data cleaning
+2025-03-30 12:59:59,819-INFO-Cleaned data saved to data/cleaned_stocks_details.csv
+2025-03-30 14:03:31,836-INFO-Logging set up successfully for data cleaning
+2025-03-30 14:03:31,877-ERROR-Error in cleaning data: Can only use .str accessor with string values!
+2025-03-30 14:03:56,197-INFO-Logging set up successfully for data cleaning
+2025-03-30 14:03:56,220-ERROR-Error in cleaning data: Can only use .str accessor with string values!
+2025-03-30 14:20:50,146-INFO-Logging set up successfully for data cleaning
+2025-03-30 14:20:50,184-INFO-Cleaned data saved to data/cleaned_stocks_details.csv
+2025-03-30 14:21:19,897-INFO-Logging set up successfully for data cleaning
+2025-03-30 14:21:19,954-INFO-Cleaned data saved to data/cleaned_stocks_details.csv
+2025-03-30 14:21:54,684-INFO-Logging set up successfully for data cleaning
+2025-03-30 14:21:54,725-INFO-Cleaned data saved to data/cleaned_stocks_details.csv
