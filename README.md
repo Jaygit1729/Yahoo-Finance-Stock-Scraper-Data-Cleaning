@@ -4,7 +4,25 @@
 
 This project involves scraping the most active stocks from Yahoo Finance, followed by data ingestion and cleaning to ensure structured and meaningful stock data.
 
-Yahoo Finance is a widely used financial platform that provides real-time stock data, financial news, and market trends. In this project, we automate the extraction of most active stocks, process the data, and clean it for further analysis.
+Yahoo Finance is a widely used financial platform that provides real-time stock data, financial news, and market trends. In this project, I have automated the extraction of most active stocks, process the data, and clean it for further analysis.
+
+**Skills Demonstrated in This Project :**
+
+Web Scraping: Extracting stock data from Yahoo Finance using Selenium.
+
+Python Automation: Automating browser interactions and data extraction.
+
+Data Ingestion: Reading, storing, and managing extracted data efficiently.
+
+Data Cleaning & Transformation: Handling missing values, converting data types, and formatting stock-related data.
+
+Pandas & NumPy: Data manipulation, numerical operations, and dataframe transformations.
+
+Error Handling & Logging: Implementing exception handling and logging mechanisms for debugging.
+
+File Handling & CSV Exporting: Saving structured data for further analysis.
+
+Project Structuring: Organizing the project into modular Python scripts for better maintainability.
 
 🔄 Project Workflow :
 
